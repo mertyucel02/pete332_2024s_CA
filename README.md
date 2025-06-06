@@ -66,5 +66,3 @@ mert.yucel@metu.edu.tr
 ege.filizli@metu.edu.tr
 arda.cimen@metu.edu.tr
 meyucel@tpao.gov.tr
-![CA_readme.txt](https://github.com/user-attachments/files/20632418/CA_readme.txt)
-[pete332_2024s_readme](https://github.com/user-attachments/assets/a18f80fc-8078-40cb-a71b-5f153fc36147)
